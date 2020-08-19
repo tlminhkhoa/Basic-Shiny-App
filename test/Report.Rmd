@@ -1,0 +1,37 @@
+---
+title: "HistoDisPlay App"
+author: "Khoa Tran"
+date: "19/08/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## A Shiny Application
+
+The shiny application pitched in this presentation is [Here](https://tlminhkhoa.shinyapps.io/HistoDisplay/)
+
+The Shiny app source code is [Here](https://github.com/tlminhkhoa/Basic-Shiny-App.git)
+
+## What does the app do 
+
+- The app visualise the histogram of the 2 defaults data set namely faithful and cars
+
+- The app allow user to change the color and number of bins, and the data set
+
+## The 2 dataset 
+
+```{r}
+head(cars)
+
+head(faithful)
+```
+
+## How to use
+
+- The user change the color and bins using the respective slider
+
+- The user change the dataset by select them in the pull down box
+

@@ -1,0 +1,12 @@
+name: HistoDisplay
+title: HistoDisplay
+username:
+account: tlminhkhoa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2684450
+bundleId: 3533392
+url: https://tlminhkhoa.shinyapps.io/HistoDisplay/
+when: 1597832582.03016
+asMultiple: FALSE
+asStatic: FALSE
